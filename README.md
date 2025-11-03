@@ -7,7 +7,7 @@
 
 ## 🧠 Overview
 
-**Air Canvas** is an AI-powered virtual drawing application that lets you **draw on your screen without touching anything** — just by moving your **index finger in the air** ✋.  
+**Air Canvas** is an AI-powered virtual drawing application that lets you **draw on your screen without touching anything** just by moving your **index finger in the air** ✋.  
 
 Built with **MediaPipe Hands** for real-time hand detection and **OpenCV** for visual rendering, it intelligently tracks your finger and converts your motion into colorful, smooth digital strokes.
 

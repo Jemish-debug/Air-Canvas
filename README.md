@@ -44,11 +44,14 @@ Built with **MediaPipe Hands** for real-time hand detection and **OpenCV** for v
 ```bash
 git clone https://github.com/yourusername/air-canvas.git
 cd air-canvas
+```
 
 ### 2️⃣ Install dependencies
 ```bash
 pip install -r requirements.txt
+```
 
-3️⃣ Run the script
+### 3️⃣ Run the script
 ```bash
 python airCanvas.py
+```
